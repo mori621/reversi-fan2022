@@ -10,7 +10,8 @@ from sklearn.model_selection import train_test_split
 import time
 import os
 
-import torch_optimizer as optim
+# import torch_optimizer as optim
+
 
 # パラメータの準備
 EPOCHS = 100 # 学習回数 (元は100)
